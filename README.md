@@ -1,4 +1,4 @@
-# Portfolio Project
+# Portfolio Website
 
 ## Project Overview
 This is my personal portfolio website, designed to showcase my skills and projects as a junior software developer. The site features a responsive design, applying best practices in HTML, CSS, and JavaScript.
@@ -64,7 +64,7 @@ Visit the live deployment link to explore my portfolio. The website is organized
 Thanks for your interest in this project. Feel free to reach out with any thoughts or questions.
 <br />
 <br />
-Oliver Jenkins © 2024
+Oliver Jenkins © 2026
 
 
 
